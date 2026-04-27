@@ -35,7 +35,7 @@ Durante o desenvolvimento deste projeto, foram praticados:
 
 ## Acesse o projeto
 
-(...)
+(https://thaisgfp.github.io/praetor-website-project/)
 
 ## Status do projeto
 
